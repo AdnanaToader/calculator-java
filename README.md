@@ -1,3 +1,14 @@
+Calculator.java - LOC: 188
+Start.java - LOC: 26
+LOC Total: 188 + 26 = 214
+
+Complexitate ciclomatica: 
+	evaluateExpression() - 6
+	Calculate() - 8
+Complexitate cognitiva:
+	evaluateExpression() - 9
+	Calculate() - 11
+ 
 Analiza statica
 
 Calculator.java - 1 - Codul nu este inclus intr-un pachet (i.e. Named Package), asa ca a fost introdus in pachetul default. Ar trebui creat un Named Package pentru un management mai bun al aplicatiei. 
